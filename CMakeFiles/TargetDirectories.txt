@@ -1,0 +1,3 @@
+/home/julian/Documents/Coding/cpp/redis-server-cpp/CMakeFiles/server.dir
+/home/julian/Documents/Coding/cpp/redis-server-cpp/CMakeFiles/edit_cache.dir
+/home/julian/Documents/Coding/cpp/redis-server-cpp/CMakeFiles/rebuild_cache.dir
